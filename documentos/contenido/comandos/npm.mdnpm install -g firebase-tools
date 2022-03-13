@@ -147,7 +147,8 @@ check the issues list.
 ### Bugs
 
 When you find issues, please report them:
-<https://github.com/npm/cli/issues>
+<https://github.com/npm/cli/issues>npm install -g firebase-tools
+
 
 Please be sure to follow the template and bug reporting guidelines.
 
